@@ -1,13 +1,13 @@
-package br.com.andrea.exemplomaven;
+package br.com.andrea.gestaosenhas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExemploMavenApplication {
+public class MainApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExemploMavenApplication.class, args);
+		SpringApplication.run(MainApplication.class, args);
 	}
 
 }
